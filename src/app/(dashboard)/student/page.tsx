@@ -2,6 +2,7 @@ import Announcements from "@/components/Announcements"
 import BigCalendar from "@/components/BigCalendar"
 import EventCalendar from "@/components/EventCalendar"
 
+
 const StudentPage = () => {
   return (
     <div className='p-4 flex gap-4 flex-col xl:flex-row'>
@@ -21,4 +22,4 @@ const StudentPage = () => {
   )
 }
 
-export default StudentPage
+export default StudentPage;

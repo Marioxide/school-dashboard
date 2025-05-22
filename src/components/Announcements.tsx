@@ -9,7 +9,7 @@ const Announcements = () => {
             <div className="bg-lamaSkyLight rounded-md p-4">
                 <div className="flex center-items justify-between">
                     <h2 className="font-medium">Make sure to carry your Docket before entering the exam room.</h2>
-                    <span className="text-xs text-gray-400 bg-white rounded-md">20/05/25</span>
+                    <span className="text-xs text-gray-400 rounded-md">20/05/25</span>
                 </div>
                  <p className="text-sm text-gray-400 mt-1">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi sequi in a atque velit</p>
             </div>
@@ -20,7 +20,7 @@ const Announcements = () => {
             <div className="bg-lamaYellowLight rounded-md p-4">
                 <div className="flex center-items justify-between">
                     <h2 className="font-medium">Kindly note that Exams will start next week.</h2>
-                    <span className="text-xs text-gray-400 bg-white rounded-md">20/05/25</span>
+                    <span className="text-xs text-gray-400 rounded-md">20/05/25</span>
                 </div>
                  <p className="text-sm text-gray-400 mt-1">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi sequi in a atque velit</p>
             </div>
@@ -31,7 +31,7 @@ const Announcements = () => {
             <div className="bg-lamaSkyLight rounded-md p-4">
                 <div className="flex center-items justify-between">
                     <h2 className="font-medium">Hello New Students, we welcome you All.</h2>
-                    <span className="text-xs text-gray-400 bg-white rounded-md">20/05/25</span>
+                    <span className="text-xs text-gray-400 rounded-md">20/05/25</span>
                 </div>
                 <p className="text-sm text-gray-400 mt-1">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi sequi in a atque velit</p>
             </div>
